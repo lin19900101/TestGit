@@ -1,6 +1,6 @@
 
 int main()
 {
-	printf("Test Git");
+	printf("Test myGit by lin");
 	return 0;
 }
