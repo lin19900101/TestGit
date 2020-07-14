@@ -1,6 +1,6 @@
 
 int main()
 {
-	printf("Test Git");
+	printf("Test youGit by new one");
 	return 0;
 }
