@@ -11,10 +11,11 @@ int main()
 	printf("commit 6");
 	7
 		8
+	9
 	return 0;
 }
 
 int test(void)
 {
-	return 0;
+	1return 0;
 }
