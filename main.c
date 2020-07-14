@@ -1,6 +1,7 @@
 
 int main()
 {
+	printf("commit 5");
 	printf("Test by lin myGit by lin");
 	printf("add dev branch");
 	printf("commit 1");
