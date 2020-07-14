@@ -11,3 +11,8 @@ int main()
 	printf("commit 6");
 	return 0;
 }
+
+int test(void)
+{
+	return 0;
+}
